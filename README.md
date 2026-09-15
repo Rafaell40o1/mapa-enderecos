@@ -1,6 +1,6 @@
 # Mapa do eleitorado do estado do Rio de Janeiro
 
-Versão publicada: lista de locais ampliada, filtros recolhíveis e recuperação de 437 dos 492 endereços inicialmente pendentes. Há 4.985 locais publicados. Os 55 pendentes de coordenadas foram excluídos desta publicação e preservados nos arquivos locais para uma atualização futura. Os pontos recuperados são classificados como aproximados, com indicação de estabelecimento, endereço simplificado, rua, CEP, bairro ou cadastro escolar. Referências de bairro não representam a posição da escola. Links das fontes externas estão nas fichas quando disponíveis.
+Versão publicada: lista de locais ampliada, filtros recolhíveis e recuperação de 437 dos 492 endereços inicialmente pendentes. Há 5.012 locais publicados, incluindo 27 coordenadas fornecidas manualmente. Restam 28 locais pendentes, preservados nos arquivos locais. Duas coordenadas fornecidas ficaram fora do município esperado e aguardam revisão. Coordenadas fornecidas são identificadas no filtro de referência e mantidas como aproximadas. Os pontos recuperados são classificados como aproximados, com indicação de estabelecimento, endereço simplificado, rua, CEP, bairro ou cadastro escolar. Referências de bairro não representam a posição da escola. Links das fontes externas estão nas fichas quando disponíveis.
 
 5.040 locais de votação, 92 municípios e 12.857.388 eleitores aptos, conforme as planilhas fornecidas com referência em 18/08/2026.
 
