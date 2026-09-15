@@ -27,3 +27,5 @@ footer{padding:7px 18px;flex-shrink:0}
 footer summary{margin:0;font-size:11px;font-weight:500}
 footer p{margin:6px 0 0;font-size:11px}
 @media(max-width:760px){main{grid-template-columns:1fr;grid-template-rows:32dvh 68dvh}.filters{padding:8px 12px 5px;max-height:34dvh}.filters h1{font-size:18px}.eyebrow{display:none}.quick-filters{grid-template-columns:1fr 1fr;gap:8px}.quick-filters label{font-size:11px;margin:5px 0 3px}.quick-filters input,.quick-filters select{font-size:12px;padding:7px}#filter-panel>summary{margin-top:6px}#summary{padding:7px 12px}#count{font-size:15px}#voters{font-size:12px}.results-head{padding:5px 12px}#list{padding:0 12px;min-height:100px}#legend{display:none}}
+
+.leaflet-control-attribution .map-credits{text-align:right;max-width:min(340px,85vw)}.map-credits summary{margin:0;padding:2px 4px;font-size:11px;font-weight:400;color:#34556b}.map-credits div{padding:6px 8px;text-align:left;font-size:11px;line-height:1.4}.leaflet-control-attribution:has(.map-credits){border-radius:5px 0 0 0;background:rgba(255,255,255,.9)}
