@@ -19,3 +19,5 @@ GitHub Pages: branch `main`, pasta `/(root)`. A entrada `estado.template.html` �
 Fontes integradas: locais (02), resumo municipal (03), seções (04) e perfis municipais (09–12). Outros relatórios fornecidos apresentam agregações complementares e não são somados aos eleitores por local.
 
 Verificações de filtros e integridade podem ser executadas abrindo `index.html?test=1`: o título retorna `TESTS PASS` quando todas passam.
+
+Em 16/09/2026, 418 posições aproximadas da cidade do Rio de Janeiro foram substituídas por coordenadas exatas fornecidas pelo responsável pelo mapa. Elas aparecem como endereço encontrado e referência Coordenada exata fornecida. Restam cinco posições aproximadas na cidade. O total publicado permanece em 5.012 locais.
